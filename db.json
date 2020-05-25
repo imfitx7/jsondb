@@ -1,8 +1,12 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "nama": "Alsteinia", "email": "alsteinia@gmail.com" },
+    { "id": 2, "nama": "Yunani", "email": "yunani@gmail.com" },
+    { "id": 3, "nama": "Tokyo", "email": "tokyo@gmail.com" },
+    { "id": 4, "nama": "Greenland", "email": "green@gmail.com" },
+    { "id": 5, "nama": "Aceh", "email": "aceh@gmail.com" },
+    { "id": 6, "nama": "Lhasa", "email": "lhasa@gmail.com" },
+    { "id": 7, "nama": "Guangzhou", "email": "zhou@gmail.com" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
