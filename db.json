@@ -6,7 +6,7 @@
     { "id": 4, "nama": "Greenland", "email": "green@gmail.com" },
     { "id": 5, "nama": "Aceh", "email": "aceh@gmail.com" },
     { "id": 6, "nama": "Lhasa", "email": "lhasa@gmail.com" },
-    { "id": 7, "nama": "Guangzhou", "email": "zhou@gmail.com" }
+    { "id": 7, "nama": "Munchen", "email": "munchen@gmail.com" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
