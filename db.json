@@ -1,12 +1,14 @@
 {
   "posts": [
-    { "id": 1, "nama": "Alsteinia", "email": "alsteinia@gmail.com" },
-    { "id": 2, "nama": "Yunani", "email": "yunani@gmail.com" },
-    { "id": 3, "nama": "Tokyo", "email": "tokyo@gmail.com" },
-    { "id": 4, "nama": "Greenland", "email": "green@gmail.com" },
-    { "id": 5, "nama": "Aceh", "email": "aceh@gmail.com" },
-    { "id": 6, "nama": "Lhasa", "email": "lhasa@gmail.com" },
-    { "id": 7, "nama": "Munchen", "email": "munchen@gmail.com" }
+    { "id": 1, "nama": "Bobby Imfit Valent", "email": "bobby@blackmarket.com" },
+    { "id": 2, "nama": "Indra Satria", "email": "indra@blackmarket.com" },
+    { "id": 3, "nama": "Ivan Habibie", "email": "ivan@blackmarket.com" },
+    { "id": 4, "nama": "Julius Gunawan", "email": "julius@blackmarket.com" },
+    { "id": 5, "nama": "Kevin Tedja", "email": "kevin@blackmarket.com" },
+    { "id": 6, "nama": "Rama Putra", "email": "rama@blackmarket.com" },
+    { "id": 7, "nama": "Rangga Bagus", "email": "rangga@blackmarket.com" },
+    { "id": 8, "nama": "Yohanes Tan", "email": "tan@blackmarket.com" },
+    { "id": 9, "nama": "Yoshua", "email": "yoshua@blackmarket.com" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
